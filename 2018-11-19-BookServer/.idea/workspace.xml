@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d56e30ed-5350-409b-baea-7664c7efabb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.frq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.nrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.prx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.tii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/_0.tis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/bin/ArrayMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/bin/Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/bin/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/bin/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/bin/methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/src/ArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/src/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/src/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-19-arrays/src/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-22-classwork/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-22-classwork/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-03-22-classwork/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/bin/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/bin/dao/Gold.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/bin/dao/Shit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/bin/dao/Substance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/src/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/src/dao/Gold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/src/dao/Shit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Alchemy/src/dao/Substance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/bin/dao/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/src/dao/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Object/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/bin/dao/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/src/dao/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-12-Search/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/bin/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/bin/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/bin/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/bin/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-18-web/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/bin/package1/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/bin/package1/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/bin/package1/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/src/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/src/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-AccessModifiers/src/package1/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/bin/Kolkhoz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/src/Kolkhoz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Agriculture/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/bin/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/bin/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/src/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-Final/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/bin/dao/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/src/dao/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-RandomCar/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-StaticMethods/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/bin/Chinese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/src/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-26-china/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-HT-Wrapper/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-HT-Wrapper/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-HT-Wrapper/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-HT-Wrapper/bin/HomeTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-HT-Wrapper/src/HomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Hometask.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Magellan/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Magellan/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Magellan/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/bin/MagellanTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/src/MagellanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-04-30-Wrapping-class/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-02-Skype/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-02-Skype/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-02-Skype/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-BakerEncription/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-BakerEncription/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-BakerEncription/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-BakerEncription/bin/Baker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-BakerEncription/src/Baker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-SearchIndex/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-SearchIndex/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-SearchIndex/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-SearchIndex/bin/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-HT-SearchIndex/src/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings1/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings1/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings2/bin/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-03-Strings2/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-CaesorEnctiption/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-CaesorEnctiption/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-CaesorEnctiption/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/bin/run/PassGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-06-PasswordGenerator/src/run/PassGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-CompareToString/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-CompareToString/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-CompareToString/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-CompareToString/bin/CompareTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-CompareToString/src/CompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/bin/FromJSON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/src/FromJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-JSON/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/bin/SortString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/src/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-HT-sorting/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-Replace/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-Replace/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-Replace/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-Replace/bin/Replace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-Replace/src/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/bin/dao/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/bin/test/SplitAndJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/src/dao/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-SplitAndJoin/src/test/SplitAndJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-StringBuilder/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-StringBuilder/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-StringBuilder/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-StringBuilder/bin/StringBuild.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-07-StringBuilder/src/StringBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/bin/model/MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/bin/test/Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/src/model/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-10-MyArrayList/src/test/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/lib/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/test/ArrayListMy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/test/EngineCarComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/test/MazganCarComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/bin/test/YearCarComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/lib/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/test/ArrayListMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/test/EngineCarComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/test/MazganCarComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-ArrayList/src/test/YearCarComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-HT-Person/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/bin/EvenOddIntegerComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/bin/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/src/EvenOddIntegerComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-14-MonsterComparator/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/bin/BackRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/bin/BackReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/src/BackRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-BackReading/src/BackReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-ParseArrayList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-ParseArrayList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-ParseArrayList/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-ParseArrayList/bin/ParceArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-ParseArrayList/src/ParceArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-SortStringChar/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-SortStringChar/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-SortStringChar/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-SortStringChar/bin/SortStringChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-17-SortStringChar/src/SortStringChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-AllIndexes/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-AllIndexes/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-AllIndexes/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/bin/Repeat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/bin/YearCarComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/bin/dao/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/src/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/src/YearCarComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/src/dao/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-21-Repetition/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/bin/RangePredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/bin/XoR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/src/RangePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-Predicate-XoR/src/XoR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/dao/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/dao/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/run/AreaComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/run/AreaRangePredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/run/CountryRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/bin/run/PeopleRangePredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/dao/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/dao/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/run/AreaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/run/AreaRangePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/run/CountryRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-28-HT-countries/src/run/PeopleRangePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/bin/Run/run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/bin/model/Employe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/bin/model/OfficeManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/bin/model/WageEmploye.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/src/Run/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/src/model/Employe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/src/model/OfficeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-AbstractClass/src/model/WageEmploye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/model/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/model/Hexagon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/model/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/model/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/model/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/bin/run/countSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/model/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/model/Hexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/model/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/model/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-05-31-Shapes/src/run/countSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic/bin/Generic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic/src/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic2/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic2/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic2/bin/Generic2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-04-Generic2/src/Generic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-07-CopyArrays/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-07-CopyArrays/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-07-CopyArrays/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-07-CopyArrays/bin/CopyArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-07-CopyArrays/src/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/bin/BinarySearchRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/bin/IntComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/src/BinarySearchRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-BinarySearch/src/IntComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/bin/IntComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/bin/SortedLists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/src/IntComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-11-SortedArrayList/src/SortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/bin/model/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/bin/model/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/bin/test/LinkedListRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/src/model/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/src/model/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-14-MyLinkedList/src/test/LinkedListRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-18-Iterators/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-18-Iterators/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-18-Iterators/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FakeIterator/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FakeIterator/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FakeIterator/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FakeIterator/bin/FakedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FakeIterator/src/FakedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/bin/model/FilteredIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/bin/test/intPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/bin/test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/src/model/FilteredIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/src/test/intPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-FilteredIterator/src/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-MemoryLimit/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-MemoryLimit/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-MemoryLimit/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-MemoryLimit/bin/MemoryLimit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-06-25-MemoryLimit/src/MemoryLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/bin/CustomExcpetions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/bin/PersonWrongDataException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/src/CustomExcpetions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-CustomExcpetions/src/PersonWrongDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-Exceptions/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-Exceptions/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-Exceptions/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-Exceptions/bin/ExceptionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-02-Exceptions/src/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/2018-07-05-Hash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/out/production/2018-07-05-Hash/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/out/production/2018-07-05-Hash/RunHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/out/production/2018-07-05-Hash/model/IHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/out/production/2018-07-05-Hash/model/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/src/RunHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/src/model/IHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-Hash/src/model/MyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/bin/HashCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/src/HashCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-HashSet/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/bin/model/IHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/bin/model/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/bin/model/MyHashSetIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/bin/run/RunHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/src/model/IHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/src/model/MyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/src/model/MyHashSetIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-05-MyHashSet/src/run/RunHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-2DArray/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-2DArray/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-2DArray/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-2DArray/bin/TDArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-2DArray/src/TDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/bin/model/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/bin/model/WrongMatrixException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/bin/run/RunMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/src/model/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/src/model/WrongMatrixException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-12-Matrix/src/run/RunMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/2018-07-16-TreeSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/bin/model/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/bin/model/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/bin/run/TreeApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/out/production/2018-07-16-TreeSet/model/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/out/production/2018-07-16-TreeSet/model/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/out/production/2018-07-16-TreeSet/run/TreeApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/src/model/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/src/model/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-16-TreeSet/src/run/TreeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-23-JavaTreeSetStandart/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-23-JavaTreeSetStandart/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-23-JavaTreeSetStandart/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-23-JavaTreeSetStandart/bin/TreeSetTun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-23-JavaTreeSetStandart/src/TreeSetTun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-DateTime/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-DateTime/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-DateTime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-DateTime/bin/DateTimeRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-DateTime/src/DateTimeRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/bin/Colors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/bin/EnumerateRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/bin/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/src/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/src/EnumerateRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-26-Enumerate/src/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/bin/NextFriday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/bin/dt_run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/src/NextFriday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-DateTime/src/dt_run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-MyCalendar/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-MyCalendar/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-MyCalendar/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-MyCalendar/bin/MyCalendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-MyCalendar/src/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-TimeZone/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-TimeZone/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-TimeZone/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-TimeZone/bin/TimeZone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-07-30-TimeZone/src/TimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/bin/HashMapRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/src/HashMapRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-02-HashMap/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/2018-08-06 Library.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/2018-08-06 Library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/2018-08-06 Library.userlibraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/2018-08-06 Library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookAuthorsComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookEditionDateComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookGeneralComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookISBNComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookPriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookPublisherComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/comparators/BookTitleComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/dao/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/dao/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/dao/Countries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/dao/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/model/ILibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/model/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/bin/util/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookAuthorsComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookEditionDateComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookGeneralComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookISBNComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookPriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookPublisherComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/comparators/BookTitleComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/dao/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/dao/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/dao/Countries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/dao/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/model/ILibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/model/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/util/DBLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/out/production/2018-08-06 Library/util/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookAuthorsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookEditionDateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookGeneralComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookISBNComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookPriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookPublisherComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/comparators/BookTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/dao/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/dao/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/dao/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/dao/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/model/ILibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/model/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/util/DBLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-06 Library/src/util/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/2018-08-16-first-lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/out/production/2018-08-16-first-lambda/BackComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/out/production/2018-08-16-first-lambda/FirstLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/src/BackComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-16-first-lambda/src/FirstLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/2018-08-20-Bisection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/bin/Bisection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/out/production/2018-08-20-Bisection/Bisection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Bisection/src/Bisection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/2018-08-20-MethodReference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/Reference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookAuthorsComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookEditionDateComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookGeneralComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookISBNComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookPriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookPublisherComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/comparators/BookTitleComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/dao/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/dao/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/dao/Countries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/dao/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/util/DBLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/out/production/2018-08-20-MethodReference/util/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookAuthorsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookEditionDateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookGeneralComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookISBNComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookPriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookPublisherComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/comparators/BookTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/dao/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/dao/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/dao/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/dao/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/util/DBLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-MethodReference/src/util/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/2018-08-20-Regexp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/out/production/2018-08-20-Regexp/regexp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-20-Regexp/src/regexp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/2018-08-23-Files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/Sasha.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/out/production/2018-08-23-Files/Files.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/src/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-23-Files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/2018-08-27-FileInputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/out/production/2018-08-27-FileInputOutput/InputOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-FileInputOutput/src/InputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/2018-08-27-LibraryIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/library.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/library.dta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookAuthorsComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookEditionDateComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookGeneralComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookISBNComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookPriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookPublisherComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/comparators/BookTitleComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/dao/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/dao/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/dao/Countries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/dao/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/model/ILibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/model/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/util/DBLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/out/production/2018-08-27-LibraryIO/util/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookAuthorsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookEditionDateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookGeneralComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookISBNComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookPriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookPublisherComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/comparators/BookTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/dao/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/dao/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/dao/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/dao/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/model/ILibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/model/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/util/DBLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-LibraryIO/src/util/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/2018-08-27-PersonsIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/Person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/out/production/2018-08-27-PersonsIO/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/out/production/2018-08-27-PersonsIO/RunMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-27-PersonsIO/src/RunMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/2018-08-30 TCP_Server_Multi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/bin/response/MirrorServerResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/bin/response/Protocol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/bin/server/MultiThreadsServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/bin/server/SocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/bin/test/TCP_Server_Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/src/response/MirrorServerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/src/response/Protocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/src/server/MultiThreadsServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/src/server/SocketThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30 TCP_Server_Multi/src/test/TCP_Server_Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/2018-08-30-AuthApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/out/production/2018-08-30-AuthApp/Model/Auth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/out/production/2018-08-30-AuthApp/Model/Words.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/out/production/2018-08-30-AuthApp/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/secret.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/src/Model/Auth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/src/Model/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-AuthApp/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/2018-08-30-DataOfStreams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/car.dta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/out/production/2018-08-30-DataOfStreams/dto/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/out/production/2018-08-30-DataOfStreams/run/Run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/src/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-DataOfStreams/src/run/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/2018-08-30-Keyboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/out/production/2018-08-30-Keyboard/KeyboardInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-08-30-Keyboard/src/KeyboardInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/2018-09-03-Stream1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/out/production/2018-09-03-Stream1/Streams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream1/src/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/2018-09-03-Stream2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/food.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/out/production/2018-09-03-Stream2/Stream2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Stream2/src/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/2018-09-03-Streams3.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/2018-09-03-Streams3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/2018-09-03-Streams3.userlibraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/out/production/2018-09-03-Streams3/Streams3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-03-Streams3/src/Streams3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/2018-09-06 TCP_Client_Single_Lines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/bin/application/Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/bin/application/TCP_Client_Single_Lines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/src/application/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Client_Single_Lines/src/application/TCP_Client_Single_Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/2018-09-06 TCP_Server_Single_Lines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/bin/response/MirrorServerResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/bin/response/Protocol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/bin/server/SingleThreadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/bin/server/SocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/bin/test/TCP_Server_Single_Lines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/src/response/MirrorServerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/src/response/Protocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/src/server/SingleThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/src/server/SocketThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06 TCP_Server_Single_Lines/src/test/TCP_Server_Single_Lines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/2018-09-06-PipeOperations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/PipeOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookAuthorsComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookEditionDateComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookGeneralComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookISBNComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookPriceComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookPublisherComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/comparators/BookTitleComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/dao/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/dao/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/dao/Countries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/dao/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/model/ILibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/model/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/util/DBLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/out/production/2018-09-06-PipeOperations/util/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/PipeOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookAuthorsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookEditionDateComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookGeneralComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookISBNComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookPriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookPublisherComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/comparators/BookTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/dao/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/dao/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/dao/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/dao/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/model/ILibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/model/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/util/DBLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PipeOperations/src/util/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/2018-09-06-PowerOfMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/out/production/2018-09-06-PowerOfMap/dto/Cake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/out/production/2018-09-06-PowerOfMap/dto/ChokolateCake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/out/production/2018-09-06-PowerOfMap/dto/JamCake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/out/production/2018-09-06-PowerOfMap/run/maps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/src/dto/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/src/dto/ChokolateCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/src/dto/JamCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-06-PowerOfMap/src/run/maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/2018-09-13-Any.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/out/production/2018-09-13-Any/Accumulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/out/production/2018-09-13-Any/Any.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/src/Accumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-13-Any/src/Any.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/2018-09-19-ClientSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/out/production/2018-09-19-ClientSocket/ClientSocket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ClientSocket/src/ClientSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/2018-09-19-HomeTask-ClientSide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/out/production/2018-09-19-HomeTask-ClientSide/RunClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/src.bak/RunClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ClientSide/src/RunClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/2018-09-19-HomeTask-ServerSide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/src.bak/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/src.bak/RunServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide.123/src/RunServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/2018-09-19-HomeTask-ServerSide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/out/production/2018-09-19-HomeTask-ServerSide/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/out/production/2018-09-19-HomeTask-ServerSide/RunServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-HomeTask-ServerSide/src/RunServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/2018-09-19-ServerSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/out/production/2018-09-19-ServerSocket/ServerSide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-09-19-ServerSocket/src/ServerSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/.idea/artifacts/2018_10_08_Annotation_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/2018-10-08-Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/artifacts/2018_10_08_Annotation_jar/2018-10-08-Annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/production/2018-10-08-Annotation/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/production/2018-10-08-Annotation/annotations/Create.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/production/2018-10-08-Annotation/annotations/Setname.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/production/2018-10-08-Annotation/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/out/production/2018-10-08-Annotation/run/AnnotationsRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/src/annotations/Create.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/src/annotations/Setname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-08-Annotation/src/run/AnnotationsRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/2018-10-15-MultiTrouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/out/production/2018-10-15-MultiTrouble/Incrementor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/out/production/2018-10-15-MultiTrouble/MultiTroubleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/src/Incrementor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-MultiTrouble/src/MultiTroubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/2018-10-15-TwoThreads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/out/production/2018-10-15-TwoThreads/FirstThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/out/production/2018-10-15-TwoThreads/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/out/production/2018-10-15-TwoThreads/TwoThreadRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/src/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/src/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-15-TwoThreads/src/TwoThreadRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/2018-10-29-LombokInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/src/dto/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-LombokInheritance/src/dto/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/src/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/target/classes/Run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-10-29-MavenLombok/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/2018-11-01-JacksonInheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/src/main/java/com/telran/application/JacksonInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/src/main/java/com/telran/dto/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/src/main/java/com/telran/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/src/main/java/com/telran/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/target/classes/com/telran/application/JacksonInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/target/classes/com/telran/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/target/classes/com/telran/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonInheritance/target/classes/com/telran/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/2018-11-01-JacksonType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/src/main/java/com/telran/application/JacksonTypeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/src/main/java/com/telran/dto/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/src/main/java/com/telran/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/src/main/java/com/telran/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/application/JacksonTypeApp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/application/JacksonTypeApp$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/application/JacksonTypeApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-JacksonType/target/classes/com/telran/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/2018-11-01-jackson-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/src/main/java/com/telran/application/JacksonBasicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/src/main/java/com/telran/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/src/main/java/com/telran/dto/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/src/main/java/com/telran/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/src/main/java/com/telran/person.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/target/classes/com/telran/application/JacksonBasicApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/target/classes/com/telran/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/target/classes/com/telran/dto/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-01-jackson-test/target/classes/com/telran/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-12 FirstBackClient/target/classes/application/FirstBackClientTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-15-AuthBackend/target/classes/com/telran/application/AuthBackApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-15-AuthBackend/target/classes/com/telran/application/controller/AuthorizationBackController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-15-AuthClient/target/classes/com/telran/application/AuthFrontApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-15-PathVariable/target/classes/com/telran/application/BackPathVar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-15-PathVariable/target/classes/com/telran/application/controller/BackPathVariableController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/2018-11-19-BookClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-19-BookClient/src/main/java/com/telran/application/BookClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/application/BookServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookQuerriesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookStartEndController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/telran/application/model/BookModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/2018-11-22-FirstJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/src/main/java/com/telran/application/FirstJdbcApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/src/main/java/com/telran/connection/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2018-11-22-jdbc/src/main/java/com/telran/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../52_RESTservice_18_11_12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassReflection.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/bin/objects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-02/src/objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/bin/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/bin/Transport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/bin/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/bin/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/src/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-2018-04-05/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/bin/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/bin/TestPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classwork-Person/src/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/RunDraw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/com/telran/drawing/drawing/Drawing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/com/telran/drawing/figures/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/com/telran/drawing/figures/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/com/telran/drawing/figures/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/bin/com/telran/drawing/figures/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/RunDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/com/telran/drawing/drawing/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/com/telran/drawing/figures/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/com/telran/drawing/figures/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/com/telran/drawing/figures/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drawing/src/com/telran/drawing/figures/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/pom_123.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBack/src/Application/FirstBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBackProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBackProject/target/classes/application/FirstBackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBackProject/target/classes/application/controller/FirstBackController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git eclipse-workspace.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/bin/dao/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/bin/lib/RandomLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/src/dao/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/src/lib/RandomLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H-2018-04-26-Person/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/bin/GetInputFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/bin/HasNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/src/GetInputFromUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.15/src/HasNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/bin/ArrayMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/bin/HometaskArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/src/ArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.19/src/HometaskArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/Hometask-2018.03.29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/bin/ArMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/bin/Hometask_2018_03_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/out/production/Hometask-2018.03.29/ArMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/out/production/Hometask-2018.03.29/Hometask_2018_03_29.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/src/ArMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.03.29/src/Hometask_2018_03_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/bin/Bikes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/bin/Cars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/bin/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/bin/Trucks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/src/Bikes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/src/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.02/src/Trucks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/bin/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/bin/LibBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/bin/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/bin/Magazine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/src/LibBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hometask-2018.04.05/src/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/Library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyPython/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyPython/.pydevproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/Pinger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/model/Host.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/model/Hosts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/model/LogFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/model/LogRotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingerNew/target/classes/com/sandisk/utils/Tools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseLongWords/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseLongWords/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseLongWords/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseLongWords/bin/ReverseLongWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseLongWords/src/ReverseLongWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/HTTP_Stub/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/HTTP_Stub/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/HTTP_Stub/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/HTTP_Stub/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/HTTP_Stub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/123/SpringBoot_Stub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/51_HttpRequests_18_11_08.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/FirstBack/target/classes/application/FirstBackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/bin/dto/TwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/src/application/SomeBackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/src/controller/SomeBackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/src/dto/ResultObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/src/dto/TwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/target/classes/application/SomeBackApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/target/classes/controller/SomeBackController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/target/classes/dto/ResultObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/target/classes/dto/TwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/bin/application/SomeFrontApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/src/application/SomeFrontApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/src/dto/ResultObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/src/dto/TwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/target/classes/application/SomeFrontApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/target/classes/dto/ResultObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeFront/target/classes/dto/TwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Addition/pleaseRead.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/bin/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 Base64/target/classes/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/bin/application/HTTPTestApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/bin/dto/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/src/application/HTTPTestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/src/dto/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/target/classes/application/HTTPTestApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Codes/2018-10-13 HTTP/target/classes/dto/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/HTTP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/Entities.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/EntityMethods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/HeadersAddVsSet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/HttpEntityConstructors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/MultyValueMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/RequestEntity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/RestTemplateExchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/Pictures/URI_URL_URN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/http.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP/http_dependency.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP_Stub/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP_Stub/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP_Stub/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP_Stub/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/HTTP_Stub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/bin/applications/CreatePersonsTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/bin/applications/RestorePersonsTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/bin/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/bin/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/persons.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/src/applications/CreatePersonsTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/src/applications/RestorePersonsTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/src/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/target/classes/applications/CreatePersonsTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/target/classes/applications/RestorePersonsTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/target/classes/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonBasic/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/bin/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/bin/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/src/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/src/test/PersonsJsonInheritanceTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/target/classes/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/target/classes/test/PersonsJsonInheritanceTestAppl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/target/classes/test/PersonsJsonInheritanceTestAppl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonGenerics/target/classes/test/PersonsJsonInheritanceTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/bin/application/PersonsJsonInheritanceTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/bin/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/bin/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/bin/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/bin/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/src/application/PersonsJsonInheritanceTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/src/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/src/dto/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/src/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/target/classes/application/PersonsJsonInheritanceTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/target/classes/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/target/classes/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/target/classes/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonInheritance/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/bin/application/PersonsJsonXMLTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/bin/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/bin/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/bin/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/bin/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/src/application/PersonsJsonXMLTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/src/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/src/dto/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/src/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/target/classes/application/PersonsJsonXMLTestAppl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/target/classes/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/target/classes/dto/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/target/classes/dto/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Codes/2018-10-12 JacksonXML/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Jackson.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/AbstractClassInstantiation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/Descendants.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/Generics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/LocalDate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/ObjectMapper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/readValue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/Pictures/writeValue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/jackson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Jackson/jackson_dependencies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/bin/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/src/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/target/classes/dto/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-10 Lombok/target/classes/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/bin/parents/Parent1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/src/test/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/src/test/LombokInheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/src/test/Parent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/target/classes/test/Child1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/target/classes/test/LombokInheritanceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/2018-10-29 LombokInheritance/target/classes/test/Parent1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/lombok.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Lombok/lombok_dependency.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/DependencyStructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/Maven.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/POM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/PluginStricture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/maven.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/SpringBoot_Stub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Technologies/Stubs.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tel-Ran" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tel-Ran-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/bin/ArrayMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/bin/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/src/ArrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestString/src/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/ChildFictionLibBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/EducationBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/FictionLibBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/LibraryBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/bin/book/TestBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/ChildFictionLibBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/EducationBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/FictionLibBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/LibraryBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/book/TestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/car-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/src/main/java/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/car-project-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/classes/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/classes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../car-project/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classwork-2018-04-12.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drawing.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jar/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_pinger.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ma_play/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ma_play/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ma_play/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/maven-lombok-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/src/main/java/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/classes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/classes/com/company/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/maven-lombok-demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-lombok-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/mavendemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavendemo/target/classes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/bin/functions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/bin/remove_digit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/src/functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_experiments/src/remove_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/172.16.1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/172.16.1.50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/pinger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/src/main/java/Pinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/src/main/java/model/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/src/main/java/model/LogFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/src/main/java/model/LogRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/src/main/java/utils/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/Pinger$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/Pinger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/model/Host.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/model/LogFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/model/LogRotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinger/target/classes/utils/Tools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../play/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../play/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../play/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-11-12 FirstBackClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-11-12 FirstBackClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-11-15-AuthBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-11-15-AuthBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-11-15-AuthClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-11-15-AuthClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-11-15-FrontPathVariable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-11-15-FrontPathVariable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018-11-15-PathVariable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2018-11-15-PathVariable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Technologies/HTTP/Addition/2018-10-27 SomeBack/.idea/2018-10-27 SomeBack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2018-11-19-BookServer.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1916889390">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1069" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1069" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dta" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/BookServerApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/model/BookModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookStartEndController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="15" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookQuerriesController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="16" selection-start-line="3" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lon</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/telran/application/BookServerApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookStartEndController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookQuerriesController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/telran/application/model/BookModel.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="telran" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="telran" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018-11-19-BookServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018-11-19-BookServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="telran" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543250718817" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_JARS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.telran.application.BookServerApp" />
+      <module name="2018-11-19-BookServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookServerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d56e30ed-5350-409b-baea-7664c7efabb9" name="Default Changelist" comment="" />
+      <created>1542643602708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542643602708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37960956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="SQL" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2018-11-19-BookServer.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.dta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/model/BookModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookStartEndController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="15" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/controller/BookQuerriesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="16" selection-start-line="3" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/telran/application/BookServerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>2018-11-19-BookServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
